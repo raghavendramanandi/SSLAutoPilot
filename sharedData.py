@@ -1,0 +1,3 @@
+csrFile = ""
+certbotLocation = ""
+webrootLocation = ""
